@@ -15,4 +15,4 @@ module.exports = {
     id: 4,
     type: 'Filled Doughnut Holes'
   }
-  ]}
+]};
